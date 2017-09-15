@@ -4,8 +4,8 @@ import org.junit.jupiter.api.Test;
 
 class Recursy {
 	@Test
-	void printResult() {
+	void invoke() {
 		System.out.println("recursy?");
-		new Recursy().printResult();
+		new Recursy().invoke();
 	}
 }
