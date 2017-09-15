@@ -1,6 +1,6 @@
 package ru.dens.feon.education.interview.questions;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import ru.dens.feon.education.interview.questions.annotations.Questable;
 
 public class FizzBuzz implements Questable {
